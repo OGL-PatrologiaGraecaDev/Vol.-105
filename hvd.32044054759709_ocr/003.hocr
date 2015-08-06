@@ -1,0 +1,23 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/105/hvd.32044054759709/003.png"; bbox 0 0 1952 3093; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 587 968 1226 1454">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 648 1024 1160 1199">
+     <span class='ocr_line' id='line_1_1' title="bbox 648 1024 1160 1199; baseline 0.002 -7"><span class='ocrx_word' id='word_1_1' title='bbox 648 1024 1160 1199; x_wconf 43' lang='grc' dir='ltr'><em>[ψξῇ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 703 2886 1176 3093">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 714 2926 1158 2998">
+     <span class='ocr_line' id='line_1_2' title="bbox 714 2926 1158 2935; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 714 2926 720 2935; x_wconf 71' lang='grc' dir='ltr'><em>ο</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1152 2926 1158 2935; x_wconf 68' lang='grc' dir='ltr'>ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 714 2986 722 2998; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 714 2986 722 2998; x_wconf 72' lang='grc' dir='ltr'><em>ι</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 713 2999 1157 3041">
+     <span class='ocr_line' id='line_1_4' title="bbox 713 2999 1157 3022; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 713 2999 720 3017; x_wconf 75' lang='grc' dir='ltr'>ἱ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1155 3019 1157 3022; x_wconf 89' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 713 3026 1157 3041; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 713 3026 722 3038; x_wconf 75' lang='grc' dir='ltr'><em>ι’</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1152 3030 1157 3041; x_wconf 75' lang='lat'><em>.&#39;</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
